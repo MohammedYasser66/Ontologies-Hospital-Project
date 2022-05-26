@@ -7,7 +7,7 @@ It is very important to maintain efficient system to handle information of a Hos
 ## Queries
 ### Get patient info
 ![Get patient info](https://user-images.githubusercontent.com/101582196/170394485-f5d74f0a-5bdc-49b4-b8ac-d88255908014.JPG)
-### Get patient name who is older than 25
+### Get patient info who is older than 25
 ![Get patient name who is older than 25](https://user-images.githubusercontent.com/101582196/170394572-3af5313e-3207-4874-9dfd-c29b04d772c1.JPG)
 ### Get patients rooms
 ![Get patients rooms](https://user-images.githubusercontent.com/101582196/170394614-1f0585e9-c507-409e-92f2-291fa1e36061.JPG)
